@@ -1,0 +1,12 @@
+requests
+python-dotenv
+moviepy
+whisper
+pydub
+pyttsx3
+google-api-python-client
+google-auth
+google-auth-oauthlib
+torch==2.6.0
+torchaudio==2.6.0
+gitpython
